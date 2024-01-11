@@ -1,5 +1,6 @@
 -- this part of the script create a database named hbtn_0d_usa
 CREATE DATABASE IF NOT EXISTS hbtn_0d_usa;
+USE hbtn_0d_usa;
 
 -- this part of tje script create a table named cities
 CREATE TABLE IF NOT EXISTS cities (
