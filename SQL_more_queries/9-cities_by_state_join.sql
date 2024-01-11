@@ -1,4 +1,4 @@
---this script retrive all cities in hbtn_0d_usa database
+-- this script retrive all cities in hbtn_0d_usa database
 SELECT cities.id, cities.name AS name,
 states.name AS name
 FROM cities
